@@ -1,15 +1,14 @@
-#BoldFox
+﻿#BoldFox
 
-##Moch. Agus Rahmanto
+## Moch. Agus Rahmanto
 
 Ini adalah kumpulan berbagi tugas di Hacktiv8
 
-###Tugas Phase 0
+### Tugas Phase 0
 
-* Week 1
+*  **Week 1**
 
-1. [Hari Senin]
-   (https://github.com/mochagsr/BoldFox/tree/master/Phase0/Week1/Senin)
+1. [Hari Senin](https://github.com/mochagsr/BoldFox/tree/master/Phase0/Week1/Senin)
    
 2. Hari Selasa
 	* [CodeAcademy typography] 
